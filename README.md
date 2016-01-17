@@ -1,3 +1,6 @@
+## Meteor package of Angular Clock Widget(https://github.com/deepu105/angular-clock) by [Deepu K Sasidharan](https://github.com/jtblin)
+To install just meteor add plraphael:angular-ui-clock 
+
 # Angular Clock Widget 
 
 Responsive, beautiful clocks for [AngularJS](http://angularjs.org) built using [SVG](https://developer.mozilla.org/en/docs/Web/SVG) 
