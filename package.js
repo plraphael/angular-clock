@@ -3,7 +3,7 @@ var packageName = 'plraphael:angular-ui-clock';
 var where = 'client'; // where to install: 'client' or 'server'. For both, pass nothing.
 var version = '0.5.0';
 var summary = 'An angular.js directive for clock svg widgets - reactive, responsive, beautiful.';
-var gitLink = 'git://github.com/deepu105/angular-clock.git';
+var gitLink = 'git://github.com/plraphael/angular-clock.git';
 var documentationFile = 'README.md';
 
 // Meta-data
